@@ -13941,28 +13941,6 @@
     </mailing_list>
     <date type="inception">20030317</date>
   </group>
-  <group id="559" status="active">
-    <name>Kiel.pm</name>
-    <location>
-      <city>Kiel</city>
-      <state>Schleswig-Holstein</state>
-      <region></region>
-      <country>Germany</country>
-      <continent>Europe</continent>
-      <longitude>10.116389</longitude>
-      <latitude>54.335278</latitude>
-    </location>
-    <email type="group"></email>
-    <tsar>
-      <name>Hendrik Schnepel</name>
-      <email type="personal">
-        <user>hsch</user>
-        <domain>mooseware.de</domain>
-      </email>
-    </tsar>
-    <web>http://kiel.pm.org/</web>
-    <date type="inception">20030317</date>
-  </group>
   <group id="560" status="inactive">
     <!-- 2009.10.12 website inactive, contact e-mail could not deliver. - szabgab -->
     <name>Camelot.pm</name>
